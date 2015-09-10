@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Hello Doctor Hindle</string>
 
-    <string name="hello_world">Hello Dr. Hindle! -- from Kyle O\'Shaughnessy</string>
+    <string name="hello_world">Hello Dr. Hindle! -- from </string>
     <string name="action_settings">Settings</string>
     <string name="edit_message"><![CDATA[<Your Name Here>]]></string>
     <string name="button_send">Say Hello!</string>
-    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="title_activity_display_message">Output</string>
 </resources>

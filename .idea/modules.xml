@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloDoctorHindle.iml" filepath="$PROJECT_DIR$/HelloDoctorHindle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPUT_301_A0.iml" filepath="$PROJECT_DIR$/CMPUT_301_A0.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

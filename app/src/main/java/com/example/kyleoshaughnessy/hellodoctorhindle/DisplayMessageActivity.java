@@ -15,12 +15,12 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
         // Get the message from the intent
         Intent intent = getIntent();
-        String message = intent.getStringExtra(MyActivity.EXTRA_MESSAGE);
+        String message = intent.getStringExtra(MyActivity.EXTRA_NAME);
 
         // Create the text view
         TextView textView = new TextView(this);
         textView.setTextSize(40);
-        textView.setText(message);
+        textView.setText(getResources().getString(R.string.hello_world) + " " + message);
 
         // Set the text view as the activity layout
         setContentView(textView);
